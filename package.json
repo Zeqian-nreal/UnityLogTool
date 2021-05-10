@@ -1,7 +1,7 @@
 {
   "name": "com.nreal.logtool",
   "displayName": "NrealLogTool",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "unity": "2019.3",
   "description": "Nreal log tool",
   "keywords": [
